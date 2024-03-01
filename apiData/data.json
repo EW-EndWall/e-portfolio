@@ -84,20 +84,6 @@
     ]
   },
   {
-    "title": "Vanilla",
-    "list": [
-      {
-        "title": "XOX-Tic-Tac-Toe",
-        "img": "https://private-user-images.githubusercontent.com/43109779/245618874-d0405374-028a-41a2-913d-e99854dd6a3e.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDkzMDEzMjAsIm5iZiI6MTcwOTMwMTAyMCwicGF0aCI6Ii80MzEwOTc3OS8yNDU2MTg4NzQtZDA0MDUzNzQtMDI4YS00MWEyLTkxM2QtZTk5ODU0ZGQ2YTNlLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAzMDElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMzAxVDEzNTAyMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTNhNDk0NmUxNThkMDVlMzUzYWIwMWE0MWFjZmMyOGZiODgxZmEwMjk1OTJlYmM2MDEyOTk1NjlmYzc2OWU3ZWMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.4vw0FNYr4ZsrwSoIW6v3S_u3rCIWg1CNia-yGmEg4UY",
-        "description": "",
-        "url": "https://github.endwall.pw/xox/",
-        "source": "https://github.com/EW-EndWall/XOX-Tic-Tac-Toe",
-        "device": "Web",
-        "library": ["CSS", "jQuery", "JavaScript"]
-      }
-    ]
-  },
-  {
     "title": "Python",
     "list": [
       {
@@ -193,6 +179,20 @@
         "source": "https://github.com/EW-EndWall/bClass-color-generator",
         "device": "This library",
         "library": ["JavaScript"]
+      }
+    ]
+  },
+  {
+    "title": "Vanilla",
+    "list": [
+      {
+        "title": "XOX-Tic-Tac-Toe",
+        "img": "",
+        "description": "",
+        "url": "https://github.endwall.pw/xox/",
+        "source": "https://github.com/EW-EndWall/XOX-Tic-Tac-Toe",
+        "device": "Web",
+        "library": ["CSS", "jQuery", "JavaScript"]
       }
     ]
   }
