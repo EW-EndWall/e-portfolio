@@ -1,6 +1,6 @@
 [
   {
-    "title": "Node.js | React && Tailwind",
+    "title": "Node.js | React & Tailwind",
     "list": [
       {
         "title": "Prayer Time",
@@ -8,8 +8,8 @@
         "description": "Never miss a prayer again with our intuitive prayer time application.",
         "url": "https://prayer-time-endwall.vercel.app/",
         "source": "https://github.com/EW-EndWall/prayer-time",
+        "device": "Web & Desktop",
         "library": [
-          "Web & Desktop",
           "Data gets from API",
           "Electron",
           "Vite",
@@ -19,24 +19,26 @@
       },
       {
         "title": "PORTFOLIO",
-        "img": "#",
+        "img": "https://raw.githubusercontent.com/EW-EndWall/PORTFOLIO/main/react/public/img/favicon/android-chrome-192x192.png",
         "description": "A listing project, where developers can list the portfolio.",
         "url": "https://portfolio.endwall.pw",
         "source": "https://github.com/EW-EndWall/PORTFOLIO",
-        "library": ["Web", "Data gets from API", "Vite", "React", "Tailwind"]
+        "device": "Web",
+        "library": ["Data gets from API", "Vite", "React", "Tailwind"]
       },
       {
         "title": "Lang Learn",
-        "img": "#",
-        "description": "...",
-        "url": "#",
+        "img": "https://raw.githubusercontent.com/EW-EndWall/PORTFOLIO/main/react/public/img/favicon/android-chrome-192x192.png",
+        "description": "",
+        "url": "",
         "source": "https://github.com/EW-EndWall/lang-learn",
-        "library": ["Web", "Vite", "React", "Tailwind"]
+        "device": "Web",
+        "library": ["Vite", "React", "Tailwind"]
       }
     ]
   },
   {
-    "title": "Node.js | Vue && Bootstrap ",
+    "title": "Node.js | Vue & Bootstrap ",
     "list": [
       {
         "title": "Example Personal",
@@ -44,7 +46,8 @@
         "description": "The Website is a Simple Sample Site That Includes Contact Information About Me.",
         "url": "https://example-personal.vercel.app/",
         "source": "https://github.com/EW-EndWall/example-personal",
-        "library": ["Web", "Vite", "Vue", "Bootstrap", "CSS"]
+        "device": "Web",
+        "library": ["Vite", "Vue", "Bootstrap", "CSS"]
       },
       {
         "title": "Example Estate",
@@ -52,7 +55,8 @@
         "description": "The website is an example of a site where users can see real estate ads and find contact information.",
         "url": "https://example-estate.vercel.app/",
         "source": "https://github.com/EW-EndWall/example-estate",
-        "library": ["Web", "Vite", "Vue", "Bootstrap", "CSS"]
+        "device": "Web",
+        "library": ["Vite", "Vue", "Bootstrap", "CSS"]
       }
     ]
   },
@@ -65,7 +69,8 @@
         "description": "The URL Shortening Application is a tool that turns long web addresses into short and easy-to-share ones. This way, you can share the links you want with less characters on platforms such as social media, email or messaging.",
         "url": "https://github.endwall.pw/short/",
         "source": "https://github.com/EW-EndWall/SHORT",
-        "library": ["Web", "Bootstrap"]
+        "device": "Web",
+        "library": ["Bootstrap"]
       },
       {
         "title": "EnotE",
@@ -73,7 +78,8 @@
         "description": "Note / todo application where you can keep a list of your notes and jobs, as well as assign dates and priority to them.",
         "url": "https://github.endwall.pw/enote/",
         "source": "https://github.com/EW-EndWall/enote",
-        "library": ["Web", "Data gets from API", "CSS", "jQuery", "JavaScript"]
+        "device": "Web",
+        "library": ["Data gets from API", "CSS", "jQuery", "JavaScript"]
       }
     ]
   },
@@ -86,7 +92,8 @@
         "description": "",
         "url": "https://github.endwall.pw/xox/",
         "source": "https://github.com/EW-EndWall/XOX-Tic-Tac-Toe",
-        "library": ["Web", "CSS", "jQuery", "JavaScript"]
+        "device": "Web",
+        "library": ["CSS", "jQuery", "JavaScript"]
       }
     ]
   },
@@ -97,86 +104,95 @@
         "title": "MedDown",
         "img": "https://raw.githubusercontent.com/EW-EndWall/MedDown/main/logo.png",
         "description": "You can download video and audio from youtube. In addition, the download feature from different sites can be added in this project in the future.",
-        "url": "#",
+        "url": "",
         "source": "https://github.com/EW-EndWall/MedDown",
-        "library": ["Desktop"]
+        "device": "Desktop"
       }
     ]
   },
   {
-    "title": "Libraries && Add-ons",
+    "title": "Libraries & Add-ons",
     "list": [
       {
         "title": "bClass-theme-css",
-        "img": "https://private-user-images.githubusercontent.com/43109779/246507330-861d6b46-fc2a-4798-a8db-d7bc33eba9d3.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDkzMDMzMTcsIm5iZiI6MTcwOTMwMzAxNywicGF0aCI6Ii80MzEwOTc3OS8yNDY1MDczMzAtODYxZDZiNDYtZmMyYS00Nzk4LWE4ZGItZDdiYzMzZWJhOWQzLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAzMDElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMzAxVDE0MjMzN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWRjY2RkNTA1MTU3NTVhZTdkMzNiNGFiMzIxYzRhZWI3MzZkMjI3M2I4NGRmZWYxNWRiMDk0NTAwYzUxMWMwY2ImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.phaHZBzmyJHlBna-Ur2xHrT2a8Eg0l_7clh5k1OL0l4",
-        "description": "...",
-        "url": "#",
+        "img": "https://raw.githubusercontent.com/EW-EndWall/bClass-front-end/6a2855676d1ca33f98e8fc5e58174886078f336f/logos/bClass.svg",
+        "description": "",
+        "url": "",
         "source": "https://github.com/EW-EndWall/bClass-theme-css",
-        "library": ["This library", "CSS"]
+        "device": "This library",
+        "library": ["CSS"]
       },
       {
         "title": "bClass-theme-js",
         "img": "https://raw.githubusercontent.com/EW-EndWall/bClass-front-end/6a2855676d1ca33f98e8fc5e58174886078f336f/logos/bClass.svg",
-        "description": "...",
-        "url": "#",
+        "description": "",
+        "url": "",
         "source": "https://github.com/EW-EndWall/bClass-theme-js",
-        "library": ["This library", "JavaScript"]
+        "device": "This library",
+        "library": ["JavaScript"]
       },
       {
         "title": "bClass-theme-colors",
         "img": "https://raw.githubusercontent.com/EW-EndWall/bClass-front-end/6a2855676d1ca33f98e8fc5e58174886078f336f/logos/bClass.svg",
-        "description": "...",
-        "url": "#",
+        "description": "",
+        "url": "",
         "source": "https://github.com/EW-EndWall/bClass-theme-colors",
-        "library": ["This library", "CSS"]
+        "device": "This library",
+        "library": ["CSS"]
       },
       {
         "title": "bClass-animations",
         "img": "https://raw.githubusercontent.com/EW-EndWall/bClass-front-end/6a2855676d1ca33f98e8fc5e58174886078f336f/logos/bClass.svg",
-        "description": "...",
-        "url": "#",
+        "description": "",
+        "url": "",
         "source": "https://github.com/EW-EndWall/bClass-animations",
-        "library": ["This library", "CSS", "JavaScript"]
+        "device": "This library",
+        "library": ["CSS", "JavaScript"]
       },
       {
         "title": "bClass-components",
-        "img": "https://private-user-images.githubusercontent.com/43109779/272689709-4f70cf5a-4319-4d01-abdb-5f21cda35756.svg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDkzMDM1ODAsIm5iZiI6MTcwOTMwMzI4MCwicGF0aCI6Ii80MzEwOTc3OS8yNzI2ODk3MDktNGY3MGNmNWEtNDMxOS00ZDAxLWFiZGItNWYyMWNkYTM1NzU2LnN2Zz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAzMDElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMzAxVDE0MjgwMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTRlZWQwOTUzYTAwZTE5YzI4ZGExYjg3MmFjZDU3N2Y2ZWM5MjUxNmI1MDMxZDE5NDQ5MjJlNzU4MDY1MzJlZjUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.lRevIK7CuzRxr4iCnZbkRYH_3iEMrf1WZS4Nl8-tcXQ",
-        "description": "...",
-        "url": "#",
+        "img": "https://raw.githubusercontent.com/EW-EndWall/bClass-front-end/6a2855676d1ca33f98e8fc5e58174886078f336f/logos/bClass.svg",
+        "description": "",
+        "url": "",
         "source": "https://github.com/EW-EndWall/bClass-components",
-        "library": ["This library", "CSS", "JavaScript"]
+        "device": "This library",
+        "library": ["CSS", "JavaScript"]
       },
       {
         "title": "bClass-media-player",
         "img": "https://raw.githubusercontent.com/EW-EndWall/bClass-front-end/6a2855676d1ca33f98e8fc5e58174886078f336f/logos/bClass.svg",
-        "description": "...",
-        "url": "#",
+        "description": "",
+        "url": "",
         "source": "https://github.com/EW-EndWall/bClass-media-player",
-        "library": ["This library", "JavaScript"]
+        "device": "This library",
+        "library": ["JavaScript"]
       },
       {
         "title": "bClass-status-pages",
-        "img": "https://private-user-images.githubusercontent.com/43109779/242554536-285c4e72-4cf5-47b7-b1cc-5b9590795c5d.svg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDkzMDM3NjQsIm5iZiI6MTcwOTMwMzQ2NCwicGF0aCI6Ii80MzEwOTc3OS8yNDI1NTQ1MzYtMjg1YzRlNzItNGNmNS00N2I3LWIxY2MtNWI5NTkwNzk1YzVkLnN2Zz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAzMDElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMzAxVDE0MzEwNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTMzZjU5MmM2ODhkMzk1MTVjYTRiMDE3Nzg4OTRhMGE5OTRlY2Y1NTk4MzNjNjhiN2I2NDFmMDExZTc3NTRmYWYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.33an63gWW-1IVhHQnr5GUXrYPxelvrOjySBMtB4ZAus",
-        "description": "...",
-        "url": "#",
+        "img": "https://raw.githubusercontent.com/EW-EndWall/bClass-front-end/6a2855676d1ca33f98e8fc5e58174886078f336f/logos/bClass.svg",
+        "description": "",
+        "url": "",
         "source": "https://github.com/EW-EndWall/bClass-status-pages",
-        "library": ["This library", "CSS", "JavaScript"]
+        "device": "This library",
+        "library": ["CSS", "JavaScript"]
       },
       {
         "title": "bClass-compressor",
         "img": "https://raw.githubusercontent.com/EW-EndWall/bClass-front-end/6a2855676d1ca33f98e8fc5e58174886078f336f/logos/bClass.svg",
-        "description": "...",
-        "url": "#",
+        "description": "",
+        "url": "",
         "source": "https://github.com/EW-EndWall/bClass-compressor",
-        "library": ["This library", "JavaScript"]
+        "device": "This library",
+        "library": ["JavaScript"]
       },
       {
         "title": "bClass-color-generator",
         "img": "https://raw.githubusercontent.com/EW-EndWall/bClass-front-end/6a2855676d1ca33f98e8fc5e58174886078f336f/logos/bClass.svg",
-        "description": "...",
-        "url": "#",
+        "description": "",
+        "url": "",
         "source": "https://github.com/EW-EndWall/bClass-color-generator",
-        "library": ["This library", "JavaScript"]
+        "device": "This library",
+        "library": ["JavaScript"]
       }
     ]
   }
