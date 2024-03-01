@@ -18,11 +18,11 @@
         ]
       },
       {
-        "title": "PORTFOLIO",
-        "img": "https://raw.githubusercontent.com/EW-EndWall/PORTFOLIO/main/react/public/img/favicon/android-chrome-192x192.png",
+        "title": "Portfolio",
+        "img": "https://raw.githubusercontent.com/EW-EndWall/portfolio/main/react/public/assets/img/android-chrome-192x192.png",
         "description": "A listing project, where developers can list the portfolio.",
         "url": "https://portfolio.endwall.pw",
-        "source": "https://github.com/EW-EndWall/PORTFOLIO",
+        "source": "https://github.com/EW-EndWall/portfolio",
         "device": "Web",
         "library": ["Data gets from API", "Vite", "React", "Tailwind"]
       },

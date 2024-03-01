@@ -41,7 +41,7 @@ const projectItem = ({ item }) => {
 
           <hr className="w-2/3 mx-auto my-2" />
 
-          {item?.library.length > 0 && (
+          {item?.library && (
             <ul>
               {item.library.map((item, key) => (
                 <li key={key} className="flex items-center gap-2 px-2">
