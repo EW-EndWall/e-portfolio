@@ -1,49 +1,198 @@
 [
   {
-    "id": 1,
-    "title": "bClass",
+    "title": "Node.js | React & Tailwind",
     "list": [
       {
-        "id": 1,
-        "title": "test",
-        "img": "https://ew-endwall.github.io/test%20images/images.jpg",
-        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
-        "url": "https://endwall.pw",
-        "source": "https://github.com/",
-        "library": ["tailwind", "react"]
+        "title": "Prayer Time",
+        "img": "https://raw.githubusercontent.com/EW-EndWall/prayer-time/main/react/public/img/favicon/android-chrome-192x192.png",
+        "description": "Never miss a prayer again with our intuitive prayer time application.",
+        "url": "https://prayer-time-endwall.vercel.app/",
+        "source": "https://github.com/EW-EndWall/prayer-time",
+        "device": "Web & Desktop",
+        "library": [
+          "Data gets from API",
+          "Electron",
+          "Vite",
+          "React",
+          "Tailwind"
+        ]
       },
       {
-        "id": 2,
-        "title": "demo",
-        "img": "https://ew-endwall.github.io/test%20images/images.jpg",
-        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
-        "url": "https://endwall.pw",
-        "source": "https://github.com/",
-        "library": ["tailwind", "vue"]
+        "title": "PORTFOLIO",
+        "img": "https://raw.githubusercontent.com/EW-EndWall/PORTFOLIO/main/react/public/img/favicon/android-chrome-192x192.png",
+        "description": "A listing project, where developers can list the portfolio.",
+        "url": "https://portfolio.endwall.pw",
+        "source": "https://github.com/EW-EndWall/PORTFOLIO",
+        "device": "Web",
+        "library": ["Data gets from API", "Vite", "React", "Tailwind"]
+      },
+      {
+        "title": "Lang Learn",
+        "img": "https://raw.githubusercontent.com/EW-EndWall/PORTFOLIO/main/react/public/img/favicon/android-chrome-192x192.png",
+        "description": "",
+        "url": "",
+        "source": "https://github.com/EW-EndWall/lang-learn",
+        "device": "Web",
+        "library": ["Vite", "React", "Tailwind"]
       }
     ]
   },
   {
-    "id": 2,
+    "title": "Node.js | Vue & Bootstrap ",
+    "list": [
+      {
+        "title": "Example Personal",
+        "img": "https://raw.githubusercontent.com/EW-EndWall/example-personal/main/vue/public/assets/img/favicon2.png",
+        "description": "The Website is a Simple Sample Site That Includes Contact Information About Me.",
+        "url": "https://example-personal.vercel.app/",
+        "source": "https://github.com/EW-EndWall/example-personal",
+        "device": "Web",
+        "library": ["Vite", "Vue", "Bootstrap", "CSS"]
+      },
+      {
+        "title": "Example Estate",
+        "img": "https://raw.githubusercontent.com/EW-EndWall/example-personal/main/vue/public/assets/img/favicon2.png",
+        "description": "The website is an example of a site where users can see real estate ads and find contact information.",
+        "url": "https://example-estate.vercel.app/",
+        "source": "https://github.com/EW-EndWall/example-estate",
+        "device": "Web",
+        "library": ["Vite", "Vue", "Bootstrap", "CSS"]
+      }
+    ]
+  },
+  {
+    "title": "php | Bootstrap",
+    "list": [
+      {
+        "title": "SHORT",
+        "img": "https://raw.githubusercontent.com/EW-EndWall/SHORT/e0c874cfa5c556bdbc60c985cf97b8a213a90727/assets/dist/img/logo.svg",
+        "description": "The URL Shortening Application is a tool that turns long web addresses into short and easy-to-share ones. This way, you can share the links you want with less characters on platforms such as social media, email or messaging.",
+        "url": "https://github.endwall.pw/short/",
+        "source": "https://github.com/EW-EndWall/SHORT",
+        "device": "Web",
+        "library": ["Bootstrap"]
+      },
+      {
+        "title": "EnotE",
+        "img": "https://raw.githubusercontent.com/EW-EndWall/EnotE/main/assets/img/android-chrome-512x512.png",
+        "description": "Note / todo application where you can keep a list of your notes and jobs, as well as assign dates and priority to them.",
+        "url": "https://github.endwall.pw/enote/",
+        "source": "https://github.com/EW-EndWall/enote",
+        "device": "Web",
+        "library": ["Data gets from API", "CSS", "jQuery", "JavaScript"]
+      }
+    ]
+  },
+  {
+    "title": "Python",
+    "list": [
+      {
+        "title": "MedDown",
+        "img": "https://raw.githubusercontent.com/EW-EndWall/MedDown/main/logo.png",
+        "description": "You can download video and audio from youtube. In addition, the download feature from different sites can be added in this project in the future.",
+        "url": "",
+        "source": "https://github.com/EW-EndWall/MedDown",
+        "device": "Desktop"
+      }
+    ]
+  },
+  {
+    "title": "Libraries & Add-ons",
+    "list": [
+      {
+        "title": "bClass-theme-css",
+        "img": "https://raw.githubusercontent.com/EW-EndWall/bClass-front-end/6a2855676d1ca33f98e8fc5e58174886078f336f/logos/bClass.svg",
+        "description": "",
+        "url": "",
+        "source": "https://github.com/EW-EndWall/bClass-theme-css",
+        "device": "This library",
+        "library": ["CSS"]
+      },
+      {
+        "title": "bClass-theme-js",
+        "img": "https://raw.githubusercontent.com/EW-EndWall/bClass-front-end/6a2855676d1ca33f98e8fc5e58174886078f336f/logos/bClass.svg",
+        "description": "",
+        "url": "",
+        "source": "https://github.com/EW-EndWall/bClass-theme-js",
+        "device": "This library",
+        "library": ["JavaScript"]
+      },
+      {
+        "title": "bClass-theme-colors",
+        "img": "https://raw.githubusercontent.com/EW-EndWall/bClass-front-end/6a2855676d1ca33f98e8fc5e58174886078f336f/logos/bClass.svg",
+        "description": "",
+        "url": "",
+        "source": "https://github.com/EW-EndWall/bClass-theme-colors",
+        "device": "This library",
+        "library": ["CSS"]
+      },
+      {
+        "title": "bClass-animations",
+        "img": "https://raw.githubusercontent.com/EW-EndWall/bClass-front-end/6a2855676d1ca33f98e8fc5e58174886078f336f/logos/bClass.svg",
+        "description": "",
+        "url": "",
+        "source": "https://github.com/EW-EndWall/bClass-animations",
+        "device": "This library",
+        "library": ["CSS", "JavaScript"]
+      },
+      {
+        "title": "bClass-components",
+        "img": "https://raw.githubusercontent.com/EW-EndWall/bClass-front-end/6a2855676d1ca33f98e8fc5e58174886078f336f/logos/bClass.svg",
+        "description": "",
+        "url": "",
+        "source": "https://github.com/EW-EndWall/bClass-components",
+        "device": "This library",
+        "library": ["CSS", "JavaScript"]
+      },
+      {
+        "title": "bClass-media-player",
+        "img": "https://raw.githubusercontent.com/EW-EndWall/bClass-front-end/6a2855676d1ca33f98e8fc5e58174886078f336f/logos/bClass.svg",
+        "description": "",
+        "url": "",
+        "source": "https://github.com/EW-EndWall/bClass-media-player",
+        "device": "This library",
+        "library": ["JavaScript"]
+      },
+      {
+        "title": "bClass-status-pages",
+        "img": "https://raw.githubusercontent.com/EW-EndWall/bClass-front-end/6a2855676d1ca33f98e8fc5e58174886078f336f/logos/bClass.svg",
+        "description": "",
+        "url": "",
+        "source": "https://github.com/EW-EndWall/bClass-status-pages",
+        "device": "This library",
+        "library": ["CSS", "JavaScript"]
+      },
+      {
+        "title": "bClass-compressor",
+        "img": "https://raw.githubusercontent.com/EW-EndWall/bClass-front-end/6a2855676d1ca33f98e8fc5e58174886078f336f/logos/bClass.svg",
+        "description": "",
+        "url": "",
+        "source": "https://github.com/EW-EndWall/bClass-compressor",
+        "device": "This library",
+        "library": ["JavaScript"]
+      },
+      {
+        "title": "bClass-color-generator",
+        "img": "https://raw.githubusercontent.com/EW-EndWall/bClass-front-end/6a2855676d1ca33f98e8fc5e58174886078f336f/logos/bClass.svg",
+        "description": "",
+        "url": "",
+        "source": "https://github.com/EW-EndWall/bClass-color-generator",
+        "device": "This library",
+        "library": ["JavaScript"]
+      }
+    ]
+  },
+  {
     "title": "Vanilla",
     "list": [
       {
-        "id": 1,
-        "title": "test2",
-        "img": "https://ew-endwall.github.io/test%20images/images.jpg",
-        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
-        "url": "https://endwall.pw",
-        "source": "https://github.com/",
-        "library": ["tailwind", "express"]
-      },
-      {
-        "id": 2,
-        "title": "demo2",
-        "img": "https://ew-endwall.github.io/test%20images/images.jpg",
-        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
-        "url": "https://endwall.pw",
-        "source": "https://github.com/",
-        "library": ["tailwind", "vite"]
+        "title": "XOX-Tic-Tac-Toe",
+        "img": "",
+        "description": "",
+        "url": "https://github.endwall.pw/xox/",
+        "source": "https://github.com/EW-EndWall/XOX-Tic-Tac-Toe",
+        "device": "Web",
+        "library": ["CSS", "jQuery", "JavaScript"]
       }
     ]
   }
