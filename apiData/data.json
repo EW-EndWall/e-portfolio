@@ -28,8 +28,8 @@
       },
       {
         "title": "Lang Learn",
-        "img": "https://raw.githubusercontent.com/EW-EndWall/PORTFOLIO/main/react/public/img/favicon/android-chrome-192x192.png",
-        "description": "",
+        "img": "https://raw.githubusercontent.com/EW-EndWall/lang-learn/main/react/public/img/android-chrome-512x512.png",
+        "description": "Our Innovative Language Learning application offers users a simple and easy learning experience. Thanks to our user -friendly interface, a language student of all levels can increase their language skills wherever they want at any time.",
         "url": "",
         "source": "https://github.com/EW-EndWall/lang-learn",
         "device": "Web",
