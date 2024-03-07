@@ -103,18 +103,18 @@ export default (props) => {
         </a>{" "}
         {footerData.explanation.text}
       </span>
-      <span>
-        Designed by{" "}
+      <small>
+        developed by{" "}
         <a
           href="https://endwall.pw"
           rel="nofollow"
           target="_blank"
-          title="Designed by EWT"
+          title="developed by EWT"
           className="text-slate-200 hover:text-slate-500 hover:underline duration-200"
         >
           EWT
         </a>
-      </span>
+      </small>
     </div>
   );
 };

@@ -1,6 +1,6 @@
 [
   {
-    "title": "Node.js | React & Tailwind",
+    "title": "Node.js | React / Tailwind",
     "list": [
       {
         "title": "Prayer Time",
@@ -38,8 +38,17 @@
     ]
   },
   {
-    "title": "Node.js | Vue & Bootstrap ",
+    "title": "Node.js | Vue / Bootstrap / Tailwind ",
     "list": [
+      {
+        "title": "Password Generator",
+        "img": "https://raw.githubusercontent.com/EW-EndWall/password-generator/main/vue/public/img/favicon/android-chrome-512x512.png",
+        "description": "Password Generator is a user-friendly application designed to create strong and secure passwords. This application can be customized according to users' specific needs and can generate complex passwords of the desired length.",
+        "url": "https://password-generator-endwall.vercel.app/",
+        "source": "https://github.com/EW-EndWall/password-generator",
+        "device": "Web",
+        "library": ["Vite", "Vue", "Tailwind"]
+      },
       {
         "title": "Example Personal",
         "img": "https://raw.githubusercontent.com/EW-EndWall/example-personal/main/vue/public/assets/img/favicon2.png",
@@ -79,7 +88,7 @@
         "url": "https://github.endwall.pw/enote/",
         "source": "https://github.com/EW-EndWall/enote",
         "device": "Web",
-        "library": ["Data gets from API", "CSS", "jQuery", "JavaScript"]
+        "library": ["Data gets from API", "Sql / Local Storage", "CSS", "jQuery", "JavaScript", "AJAX"]
       }
     ]
   },
