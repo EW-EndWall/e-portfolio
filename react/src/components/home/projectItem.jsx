@@ -24,7 +24,7 @@ const projectItem = ({ item }) => {
           )}
 
           {item.device && (
-            <span className="flex gap-2 items-center">
+            <span className="flex gap-2 items-center mx-3">
               <svg
                 stroke="currentColor"
                 fill="currentColor"
