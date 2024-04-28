@@ -27,7 +27,7 @@ const headerFooterData = {
       },
       {
         icon: "twitter",
-        url: "https://twitter.com/ew_endwall",
+        url: "#",
       },
     ],
   },
