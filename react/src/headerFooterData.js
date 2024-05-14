@@ -1,6 +1,6 @@
 const headerFooterData = {
   header: {
-    title: "ew portfolio",
+    title: "e portfolio",
   },
   footer: {
     explanation: {
