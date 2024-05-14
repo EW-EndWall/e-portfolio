@@ -1,5 +1,91 @@
 [
   {
+    "title": "Libraries & Add-ons",
+    "list": [
+      {
+        "title": "bClass-theme-css",
+        "img": "https://raw.githubusercontent.com/EW-EndWall/bClass-theme-css/main/icon/bClass%20theme-css.svg",
+        "description": "A comprehensive library for developing interfaces to websites and applications.",
+        "url": "https://bclass.bik.run/",
+        "source": "https://github.com/EW-EndWall/bClass-theme-css",
+        "device": "This library",
+        "library": ["CSS"]
+      },
+      {
+        "title": "bClass-theme-js",
+        "img": "https://raw.githubusercontent.com/EW-EndWall/bClass-theme-js/main/icon/bClass%20theme-js.svg",
+        "description": "bClass-theme-css attachment library. A comprehensive library for developing interfaces to websites and applications.",
+        "url": "https://bclass.bik.run/",
+        "source": "https://github.com/EW-EndWall/bClass-theme-js",
+        "device": "This library",
+        "library": ["JavaScript"]
+      },
+      {
+        "title": "bClass-theme-colors",
+        "img": "https://raw.githubusercontent.com/EW-EndWall/bClass-theme-colors/main/icon/bClass%20theme-colors.svg",
+        "description": "Color library ready to use on websites and applications.",
+        "url": "https://bclass.bik.run/",
+        "source": "https://github.com/EW-EndWall/bClass-theme-colors",
+        "device": "This library",
+        "library": ["CSS"]
+      },
+      {
+        "title": "bClass-animations",
+        "img": "https://raw.githubusercontent.com/EW-EndWall/bClass-animations/main/icon/bClass%20animations.svg",
+        "description": "Animation library ready to use on websites and applications.",
+        "url": "https://bclass.bik.run/",
+        "source": "https://github.com/EW-EndWall/bClass-animations",
+        "device": "This library",
+        "library": ["CSS", "JavaScript"]
+      },
+      {
+        "title": "bClass-components",
+        "img": "https://raw.githubusercontent.com/EW-EndWall/bClass-components/main/icon/bClass%20components.svg",
+        "description": "Ready component library for website and application interface.",
+        "url": "https://bclass.bik.run/",
+        "source": "https://github.com/EW-EndWall/bClass-components",
+        "device": "This library",
+        "library": ["CSS", "JavaScript"]
+      },
+      {
+        "title": "bClass-media-player",
+        "img": "https://raw.githubusercontent.com/EW-EndWall/bClass-media-player/main/icon/bClass%20media-player.svg",
+        "description": "A library for HTML-based audio and video player, encompassing essential functions like play, pause, quality, subtitles, playback speed, and many other necessary features as required.",
+        "url": "https://bclass.bik.run/",
+        "source": "https://github.com/EW-EndWall/bClass-media-player",
+        "device": "This library",
+        "library": ["JavaScript"]
+      },
+      {
+        "title": "bClass-status-pages",
+        "img": "https://raw.githubusercontent.com/EW-EndWall/bClass-status-pages/main/icon/bClass%20status-pages.svg",
+        "description": "Status pages library ready to use on websites and applications.",
+        "url": "https://bclass.bik.run/",
+        "source": "https://github.com/EW-EndWall/bClass-status-pages",
+        "device": "This library",
+        "library": ["CSS", "JavaScript"]
+      },
+      {
+        "title": "bClass-toolkit-compressor",
+        "img": "https://raw.githubusercontent.com/EW-EndWall/bClass-toolkit-compressor/main/icon/bClass%20toolkit-compressor.svg",
+        "description": "A toolkit that optimizes and minified CSS and JavaScript code, as well as providing information about file sizes.",
+        "url": "https://bclass.bik.run/",
+        "source": "https://github.com/EW-EndWall/bClass-toolkit-compressor",
+        "device": "This library",
+        "library": ["JavaScript"]
+      },
+      {
+        "title": "bClass-toolkit-color-generator",
+        "img": "https://raw.githubusercontent.com/EW-EndWall/bClass-toolkit-color-generator/main/icon/bClass%20color-generator.svg",
+        "description": "A toolkit for creating a color palette with 7 different algorithms, utilizing random or desired color.",
+        "url": "https://bclass.bik.run/",
+        "source": "https://github.com/EW-EndWall/bClass-toolkit-color-generator",
+        "device": "This library",
+        "library": ["JavaScript"]
+      }
+    ]
+  },
+  {
     "title": "Node.js | React / Tailwind",
     "list": [
       {
@@ -18,7 +104,7 @@
         ]
       },
       {
-        "title": "Portfolio",
+        "title": "E-Portfolio",
         "img": "https://raw.githubusercontent.com/EW-EndWall/portfolio/main/react/public/assets/img/android-chrome-192x192.png",
         "description": "A listing project, where developers can list the portfolio.",
         "url": "https://portfolio-endwall.vercel.app/",
@@ -97,7 +183,14 @@
         "url": "https://github.endwall.pw/enote/",
         "source": "https://github.com/EW-EndWall/enote",
         "device": "Web",
-        "library": ["Data gets from API", "Sql / Local Storage", "CSS", "jQuery", "JavaScript", "AJAX"]
+        "library": [
+          "Data gets from API",
+          "Sql / Local Storage",
+          "CSS",
+          "jQuery",
+          "JavaScript",
+          "AJAX"
+        ]
       }
     ]
   },
@@ -115,98 +208,12 @@
     ]
   },
   {
-    "title": "Libraries & Add-ons",
-    "list": [
-      {
-        "title": "bClass-theme-css",
-        "img": "https://raw.githubusercontent.com/EW-EndWall/bClass-front-end/6a2855676d1ca33f98e8fc5e58174886078f336f/logos/bClass.svg",
-        "description": "",
-        "url": "",
-        "source": "https://github.com/EW-EndWall/bClass-theme-css",
-        "device": "This library",
-        "library": ["CSS"]
-      },
-      {
-        "title": "bClass-theme-js",
-        "img": "https://raw.githubusercontent.com/EW-EndWall/bClass-front-end/6a2855676d1ca33f98e8fc5e58174886078f336f/logos/bClass.svg",
-        "description": "",
-        "url": "",
-        "source": "https://github.com/EW-EndWall/bClass-theme-js",
-        "device": "This library",
-        "library": ["JavaScript"]
-      },
-      {
-        "title": "bClass-theme-colors",
-        "img": "https://raw.githubusercontent.com/EW-EndWall/bClass-front-end/6a2855676d1ca33f98e8fc5e58174886078f336f/logos/bClass.svg",
-        "description": "",
-        "url": "",
-        "source": "https://github.com/EW-EndWall/bClass-theme-colors",
-        "device": "This library",
-        "library": ["CSS"]
-      },
-      {
-        "title": "bClass-animations",
-        "img": "https://raw.githubusercontent.com/EW-EndWall/bClass-front-end/6a2855676d1ca33f98e8fc5e58174886078f336f/logos/bClass.svg",
-        "description": "",
-        "url": "",
-        "source": "https://github.com/EW-EndWall/bClass-animations",
-        "device": "This library",
-        "library": ["CSS", "JavaScript"]
-      },
-      {
-        "title": "bClass-components",
-        "img": "https://raw.githubusercontent.com/EW-EndWall/bClass-front-end/6a2855676d1ca33f98e8fc5e58174886078f336f/logos/bClass.svg",
-        "description": "",
-        "url": "",
-        "source": "https://github.com/EW-EndWall/bClass-components",
-        "device": "This library",
-        "library": ["CSS", "JavaScript"]
-      },
-      {
-        "title": "bClass-media-player",
-        "img": "https://raw.githubusercontent.com/EW-EndWall/bClass-front-end/6a2855676d1ca33f98e8fc5e58174886078f336f/logos/bClass.svg",
-        "description": "",
-        "url": "",
-        "source": "https://github.com/EW-EndWall/bClass-media-player",
-        "device": "This library",
-        "library": ["JavaScript"]
-      },
-      {
-        "title": "bClass-status-pages",
-        "img": "https://raw.githubusercontent.com/EW-EndWall/bClass-front-end/6a2855676d1ca33f98e8fc5e58174886078f336f/logos/bClass.svg",
-        "description": "",
-        "url": "",
-        "source": "https://github.com/EW-EndWall/bClass-status-pages",
-        "device": "This library",
-        "library": ["CSS", "JavaScript"]
-      },
-      {
-        "title": "bClass-compressor",
-        "img": "https://raw.githubusercontent.com/EW-EndWall/bClass-front-end/6a2855676d1ca33f98e8fc5e58174886078f336f/logos/bClass.svg",
-        "description": "",
-        "url": "",
-        "source": "https://github.com/EW-EndWall/bClass-compressor",
-        "device": "This library",
-        "library": ["JavaScript"]
-      },
-      {
-        "title": "bClass-color-generator",
-        "img": "https://raw.githubusercontent.com/EW-EndWall/bClass-front-end/6a2855676d1ca33f98e8fc5e58174886078f336f/logos/bClass.svg",
-        "description": "",
-        "url": "",
-        "source": "https://github.com/EW-EndWall/bClass-color-generator",
-        "device": "This library",
-        "library": ["JavaScript"]
-      }
-    ]
-  },
-  {
     "title": "Vanilla",
     "list": [
       {
         "title": "XOX-Tic-Tac-Toe",
         "img": "",
-        "description": "",
+        "description": "Tic-tac-toe, also known as noughts and crosses, is a classic paper-and-pencil game played on a grid of 3x3 squares. The game is played by two players, usually referred to as X and O, who take turns marking their respective symbols on the grid. port control application allows network administrators or system administrators to detect open ports in their network and close these ports when necessary.",
         "url": "https://github.endwall.pw/xox/",
         "source": "https://github.com/EW-EndWall/XOX-Tic-Tac-Toe",
         "device": "Web",

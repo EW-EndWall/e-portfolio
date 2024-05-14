@@ -26,8 +26,8 @@ const headerFooterData = {
         url: "https://www.linkedin.com/in/endwall/",
       },
       {
-        icon: "twitter",
-        url: "https://twitter.com/ew_endwall",
+        icon: "www",
+        url: "https://endwall.pw",
       },
     ],
   },
