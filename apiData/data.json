@@ -67,7 +67,7 @@
       },
       {
         "title": "bClass-toolkit-compressor",
-        "img": "https://raw.githubusercontent.com/EW-EndWall/bClass-toolkit-compressor/main/icon/bClass%20toolkit-compressor.svg",
+        "img": "https://raw.githubusercontent.com/EW-EndWall/bClass-toolkit-compressor/main/icon/bClass%20compressor.svg",
         "description": "A toolkit that optimizes and minified CSS and JavaScript code, as well as providing information about file sizes.",
         "url": "https://bclass.bik.run/",
         "source": "https://github.com/EW-EndWall/bClass-toolkit-compressor",
