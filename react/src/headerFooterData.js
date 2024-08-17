@@ -19,7 +19,7 @@ const headerFooterData = {
       },
       {
         icon: "mail",
-        url: "mailto:info@endwall.wp",
+        url: "mailto:info@endwall.pw",
       },
       {
         icon: "linkedin",
