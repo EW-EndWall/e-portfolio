@@ -98,6 +98,7 @@
         "library": [
           "Data gets from API",
           "Electron",
+          "Ionic",
           "Vite",
           "React",
           "Tailwind"
