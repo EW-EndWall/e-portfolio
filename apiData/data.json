@@ -82,6 +82,15 @@
         "source": "https://github.com/EW-EndWall/bClass-toolkit-color-generator",
         "device": "This library",
         "library": ["JavaScript"]
+      },
+      {
+        "title": "bClass-snippets",
+        "img": "https://raw.githubusercontent.com/EW-EndWall/bClass-snippets/main/images/bClass-snippets.png",
+        "description": "Snippets for bClass libraries, all in one place. With this tool you can easily use bClass libraries.",
+        "url": "https://bclass.bik.run/",
+        "source": "https://github.com/EW-EndWall/bClass-snippets",
+        "device": "This library",
+        "library": ["Snippets"]
       }
     ]
   },
